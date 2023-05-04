@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS author_books;
+DROP TABLE IF EXISTS users_authors;
+DROP TABLE IF EXISTS todo_authors;
+DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS todo_books;
